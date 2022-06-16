@@ -1,2 +1,2 @@
 Contador
-INtegração de um código JavaScripts com a página Html.
+Integração de um código JavaScripts com a página Html.
